@@ -2,7 +2,7 @@
 
 **Son Güncelleme Tarihi: 04 Kasım 2024**
 
-Bu gizlilik politikası, Catana Botumuzun (bu andan sonra bot olarak hitap edilecektir) kullanıcı verilerini nasıl topladığı, sakladığı ve kullandığını açıklamaktadır. Botu kullanarak, bu politikayı kabul etmiş sayılırsınız.
+Bu gizlilik politikası, 4KBot Botumuzun (bu andan sonra bot olarak hitap edilecektir) kullanıcı verilerini nasıl topladığı, sakladığı ve kullandığını açıklamaktadır. Botu kullanarak, bu politikayı kabul etmiş sayılırsınız.
 
 ## 1. Toplanan Bilgiler
 Bot, belirli kullanıcı verilerini toplayabilir. Bu veriler, genellikle botun temel işlevlerini gerçekleştirmesi için gereklidir. Toplanan veriler şunları içerebilir:
