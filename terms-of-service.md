@@ -2,7 +2,7 @@
 
 **Son Güncelleme Tarihi: 04 Kasım 2024**
 
-Bu hizmet şartları, Catana Botumuzun (bu andan sonra bot olarak hitap edilecektir) kullanımına ilişkin kuralları, hakları ve sorumlulukları belirler. Botu kullanarak, bu şartları kabul etmiş sayılırsınız.
+Bu hizmet şartları, 4KBot Botumuzun (bu andan sonra bot olarak hitap edilecektir) kullanımına ilişkin kuralları, hakları ve sorumlulukları belirler. Botu kullanarak, bu şartları kabul etmiş sayılırsınız.
 
 ## 1. Hizmet Kapsamı
 Botumuzun sunduğu hizmetler, sunucu moderasyonu, bilgi sağlama, eğlence amaçlı komutlar ve diğer kullanıcı etkileşimlerini içermektedir. Bot, kullanıcıların sunucularındaki topluluk deneyimini iyileştirmeyi amaçlar. Ancak, belirli hizmetler veya özellikler sınırlı veya özelleştirilebilir olabilir.
